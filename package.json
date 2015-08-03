@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-markdown-toc",
+  "version": "0.0.1",
+  "description": "NodeBB plugin for show table of content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mani95lisa/nodebb-plugin-markdown-toc"
+  },
+  "nbbpm": {
+    "compatibility": "^0.7.0"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "swift"
+  ],
+  "author": "Mani Wang <mani95lisa@gmail.com> (https://github.com/mani95lisa)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mani95lisa/nodebb-plugin-markdown-toc/issues"
+  },
+  "homepage": "https://github.com/mani95lisa/nodebb-plugin-markdown-toc",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}

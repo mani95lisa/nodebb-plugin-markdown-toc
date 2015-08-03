@@ -1,0 +1,13 @@
+{
+    "id": "nodebb-plugin-markdown-toc",
+    "name": "NodeBB Plugin to show table of content",
+    "description": "NodeBB plugin for table of content",
+    "url": "https://github.com/mani95lisa/nodebb-plugin-markdown-toc",
+    "library": "./index.js",
+    "hooks": [
+        {
+            "hook": "filter:parse.post", "method": "parse", "priority": 6
+        }
+    ]
+
+}
