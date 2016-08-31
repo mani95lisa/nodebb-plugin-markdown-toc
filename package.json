@@ -11,7 +11,7 @@
     "url": "https://github.com/mani95lisa/nodebb-plugin-markdown-toc"
   },
   "nbbpm": {
-    "compatibility": "^0.7.0"
+    "compatibility": ">=0.7.0"
   },
   "keywords": [
     "nodebb",
